@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\menu_feed.xml",
+        "source": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\src\\main\\res\\menu\\menu_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\nav_drawer.xml",
+        "source": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\src\\main\\res\\menu\\nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\build\\intermediates\\res\\merged\\dev2\\debug\\menu\\menu_feeds.xml",
+        "source": "C:\\Users\\rakshitha\\Desktop\\Our App\\app\\src\\main\\res\\menu\\menu_feeds.xml"
+    }
+]

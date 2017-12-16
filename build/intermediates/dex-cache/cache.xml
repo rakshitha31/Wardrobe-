@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\pub.devrel-easypermissions-0.1.5_73a0b9950c8bfb2169f9517336d0c05cbda29505.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.3\1499b854ae9f370409792db5af1b552dc7d9682f\jackson-core-2.7.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\jackson-core-2.7.3_1dafc090c66c58ae2b6d6a4a6e71d7fe95d5dbcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-maps-9.0.2_ccf78fbd543fa90c0d720a982e3eed34f940ffa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-basement-9.0.2_7a3a48bc0a867f355b29a7354908ba53a7bbbf1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-location-9.0.2_bda1ad0fd25045acf2560b76c7c1df1c72c7fd6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-9.0.2_b52a8f4f9630ff268331359c8f7cce7ce40309f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-analytics-impl-9.0.2_750a8109a58ddf771fee22bd4e690cdd67dea1a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-base-9.0.2_c17bad089b653a5f06acd4dbe6315b2948bf77a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-support-v4-23.4.0_5caa18572c769aba116ea13744edf6d80c08d1c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-cardview-v7-23.4.0_f28cd634f1966f51d724817a30b7624a43d92dd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-iid-9.0.2_8cf380af02a13d340557172e6a91d4e104176374.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-database-9.0.2_295c97c80f974df383720548246952d3deb8774f.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-storage-9.0.2_075c97e5674287bded428dc0ffe07152ed94c4a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-auth-9.0.2_7a2b85468f5ac5177533534fcbde031c62046470.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-support-vector-drawable-23.4.0_a7c734f1a305fdf026bec3cef647d6ccebc239b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-module-9.0.2_cc1ba11d1f5e12000d3579ec35841d3c987fe0db.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-tasks-9.0.2_8211e59140945a407c7b194c7505d335d429bbd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-design-23.4.0_0975bd600f8151073492c24a6b070c1ee373c386.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-recyclerview-v7-23.4.0_6525f08a5e1801fd10cdb8cb450ba20e8fdcc1ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-common-9.0.2_cba1afe8b8fe11a5e180de3f4111f776386bee55.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\support-annotations-23.4.0_6f59197541de922a6dc75ba754190e77469d85eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.1\f7899276dddd01d8a42ecfe27e7031fcf9824422\httpmime-4.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7899276dddd01d8a42ecfe27e7031fcf9824422">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\httpmime-4.3.1_b8e89a7181df79513d6a5bf80a176fb471ea4c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.firebaseui-firebase-ui-database-0.4.0_394e51157199822c156c3dda4f02bb81006f0616.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-analytics-9.0.2_25235cfaf24d4fedbe4e4ae9aaa2fb1d78b19bf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-database-connection-9.0.2_350ab2b8159e1a8910cd1f4f75dac9310973d654.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-appcompat-v7-23.4.0_705bc339f1bb6791b2afb96dc5f4bd755ae80d06.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\internal_impl-23.4.0_bd6396f8d98727a39111b14f05cd84f12b814402.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-crash-9.0.2_46d1546297fb03d9d21cab264b2104ea7a6b8ad8.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.android.gms-play-services-auth-base-9.0.2_583ffc081c02ebb71041097d2212e17d44ed6088.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\jackson-annotations-2.7.0_616827189a4109ec283aa0a7a611f09d7b1dff6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.1\98e2eefcf524f757188f172642ecf5e2c7421947\httpcore-4.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98e2eefcf524f757188f172642ecf5e2c7421947">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\httpcore-4.3.1_1626cb58c66d656f506f9eaec0f2c1df599efe49.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\de.hdodenhof-circleimageview-2.0.0_2ee409e788eb7284bab2edae8bd1cdd63170f159.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\percent\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-percent-23.4.0_598484cf628da21d30809f6a88c631685c0d2d77.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-auth-common-9.0.2_dd25f2f92ee11a5b0c7531de599c779b290bfb44.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\glide-3.6.0_5e10a279143c328c2fc743c87daa7a9cbf904b94.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.google.firebase-firebase-storage-common-9.0.2_860d06c00aeb057c6883e30256525044b0adfd51.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\rakshitha\Desktop\Our App\app\build\intermediates\pre-dexed\dev2\debug\com.android.support-animated-vector-drawable-23.4.0_cd56565dfde742115cac307cff714130cbcc6fba.jar" />
+    </item>
+
+</items>
